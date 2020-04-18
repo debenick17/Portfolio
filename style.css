@@ -5,10 +5,10 @@ html {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
-    background: #202125;
-    color: white;
-}
+            font-family: 'Roboto', sans-serif;
+            background: #202125;
+            color: white;
+        }
 
 ul {
     padding: 20px;
@@ -47,19 +47,6 @@ ul > li{
     margin-top: 60px;
     margin-bottom: 50px;
 
-}
-.work-experience {
-    padding: 8px;
-}
-
-.work-experience > div {
-    margin-bottom: 30px;
-}
-
-.tech {
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    grid-column-gap: 30px;
 }
 
 .my-profile {
