@@ -43,10 +43,11 @@ ul > li{
     margin-bottom: 50px;
 }
 
-.my-profile {
+.picture {
     width: 100px;
     height: 100px;
     margin-bottom: 0;
+    border-radius: 1rem;
 }
 
 @media(max-device-width: 480px) {
